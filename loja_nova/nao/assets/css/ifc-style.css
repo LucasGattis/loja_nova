@@ -1,0 +1,51 @@
+body {
+  padding-top: 55px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 55px;
+  }
+}
+
+.card {
+  height: 100%;
+}
+
+.bg-dark {
+  background-color: rgb(49, 121, 255) !important;
+}
+
+.btn-ifc {
+  color: #fff;
+  background-color: #00a77e;
+  border-color: transparent;
+  border: transparent 0px;
+}
+.btn-ifc:hover {
+  color: #fff;
+  background-color: #079673;
+}
+
+.footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+row{
+  margin : 10% 10% 10% 10%;
+}
+
+
+footer.py-5.bg-dark {
+  position: absolute;
+  width: 100%;
+  bottom: 0px;
+}
+.container.product-content {
+  position: absolute;
+  width: 80%;
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+}
